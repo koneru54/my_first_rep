@@ -1,0 +1,8 @@
+Contributed to CHANEL MDM Integration from the Pioneer CHANEL Global team.
+• Developed code on ASP.Net core framework platform using C# and xUnit library for unit testing of APIs and worker services to improve the code coverage and reduce bugs.
+• Adhered to critical deadlines in software development, troubleshooting and implementation.
+• Worked with developers to integrate resources within projects using Azure and Azure DevOps.
+• Helped in developing JavaScript for automation of REST API testing through Postman.
+• Followed products through pipeline across Software Development Life Cycle (SDLC) models, adapting to fit organizational needs.
+• Managed competing and overlapping assignments, prioritizing based on urgency and remaining flexible as demands evolved.
+• Collaborated with engineers, system analysts, and programmers regarding project capabilities and limitations to deliver optimal functionality.

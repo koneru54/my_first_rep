@@ -6,3 +6,4 @@ Contributed to CHANEL MDM Integration from the Pioneer CHANEL Global team.
 • Followed products through pipeline across Software Development Life Cycle (SDLC) models, adapting to fit organizational needs.
 • Managed competing and overlapping assignments, prioritizing based on urgency and remaining flexible as demands evolved.
 • Collaborated with engineers, system analysts, and programmers regarding project capabilities and limitations to deliver optimal functionality.
+Hello world
